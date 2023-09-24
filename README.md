@@ -24,12 +24,9 @@ root@kaonashi $>
 
 -    I’m currently learning and practicing bash and python proggraming 
      for pentesting and ethical hacking purposes. 🐍🔥
--->>
 
 -    let's set the mood right. Picture me in a hoodie, sipping coffee,
      and typing furiously in front of multiple screens. 💻☕
-
--->
 
 -    Learning never stops, especially in the world of cybersecurity.
      To stay ahead of the game, I'm constantly updating my knowledge
